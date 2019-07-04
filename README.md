@@ -17,7 +17,7 @@ Incore session on Git and GitHub.
 ## Why GitHub?
 - What is Git?
 - What is GitHub?
-- Importance
+- Importance of Github
 - What is a remote repository?
 - What is a local repository?
 
